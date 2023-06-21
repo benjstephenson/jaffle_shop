@@ -1,0 +1,13 @@
+dagster
+dagster-dbt
+pandas
+dbt-core
+dbt-duckdb
+dbt-snowflake
+dagster-duckdb
+dagster-duckdb-pandas
+plotly
+
+[dev]
+dagit
+pytest
